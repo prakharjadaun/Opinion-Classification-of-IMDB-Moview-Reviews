@@ -10,7 +10,7 @@ You can download the dataset from here: [IMDB 50k Movie Reviews](https://www.kag
 
 ## **Getting Started**
 
-**If you are not able to view the .ipynb file uploaded on the repo, then click here:** [Opinion Classification](https://nbviewer.org/github/prakharjadaun/Opinion-Classification-of-IMDB-Moview-Reviews/blob/main/Opinion%20Classification.ipynb)<br>
+**If you are not able to view the .ipynb file uploaded in the repo, then click here:** [Opinion Classification](https://nbviewer.org/github/prakharjadaun/Opinion-Classification-of-IMDB-Moview-Reviews/blob/main/Opinion%20Classification.ipynb)<br>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
