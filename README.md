@@ -1,4 +1,4 @@
-# **Opinion Classification on IMDB Reviews**
+# **Opinion Classification of IMDB Movie Reviews**
 
 ## 📋 **Project Description**
 
